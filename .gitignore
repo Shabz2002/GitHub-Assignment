@@ -1,0 +1,13 @@
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.exe
+*.o
+
+# Ignore environment files
+.env
+
+# Ignore IDE files
+.vscode/
+.idea/
